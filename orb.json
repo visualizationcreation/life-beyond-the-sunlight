@@ -1,0 +1,517 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "Life Beyond the Sunlight — Atlantic Vent Discovery",
+    "scope": "A science ORB on the May–June 2026 Doldrums expedition, announced July 7. Explore evidence, mechanisms, history and possible futures. CNSDR is a separate creative companion.",
+    "visualQuery": "",
+    "intent": {
+      "subject": "Atlantic hydrothermal vent discovery, Doldrums, 2026",
+      "direction": "Explore how this discovery connects geology, chemistry and life",
+      "perspective": "Curious scientist; evidence distinguished from possibilities",
+      "origins": {
+        "subject": "stated",
+        "direction": "inferred",
+        "perspective": "inferred"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "No single meaningful opposing contrast spans these topics."
+      },
+      "y": {
+        "negative": "Mechanisms and evidence",
+        "positive": "Wider planetary context",
+        "active": true,
+        "reason": "Moves from explanatory detail to wider connections."
+      },
+      "z": {
+        "negative": "Historical discoveries",
+        "positive": "Future research",
+        "active": true,
+        "reason": "Separates documented history from conditional future inquiry."
+      }
+    },
+    "readings": [
+      {
+        "id": "question",
+        "label": "Life beyond the sunlight",
+        "text": "How can a world thrive where sunlight never reaches? Begin with a different energy story: some microbes make organic matter using chemical reactions rather than light. Animals can then depend on those microbes. The surprise is not life without energy; it is life using a different route to obtain it.\n\nThis ORB follows the Atlantic Doldrums vent discovery, from the search to the chemistry and the questions still open. Explore outward into planetary connections, inward into mechanisms, backward through discovery, and forward into research possibilities. A separate CNSDR guided journey offers an imaginative experience of the theme.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.6,
+          "z": 0
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "discovery",
+        "label": "The discovery: two hidden vent fields",
+        "text": "An expedition in the Doldrums system found two previously unknown hydrothermal vent fields. Schmidt Ocean Institute announced the results on July 7, 2026. The larger field contained 23 vents, including 13 active black smokers; sampled fluids reached 280°C. The smaller field was found on the last dive, about 170 kilometres away.\n\nInitial observations suggested a mixture of volcanic and serpentinization-related processes. That hybrid interpretation is preliminary, not a completed accounting of the energy sources. Newly discovered means newly documented by this expedition—not newly formed.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.1,
+          "z": 0
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "search",
+        "label": "Follow the clue, not just the camera",
+        "text": "The discovery was a chain of narrowing questions. A water-data anomaly recorded in 2013 helped focus the search. Ship sonar mapped the region; the autonomous vehicle The Childlike Empress produced finer maps; the tethered robot SuBastian then inspected targets and collected samples.\n\nMBARI dates the expedition May 17–June 20, 2026. The June expedition and July announcement are different dates. A map identifies a promising target; a visual observation and a sample answer different questions. Exploration works by connecting these kinds of evidence.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": -0.15,
+          "z": 0
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "planetary",
+        "label": "Planetary: an ocean connected to its crust",
+        "text": "Pull back from a single chimney. The expedition investigated a transform and fracture system near the Mid-Atlantic Ridge: a setting where faults provide routes through the seafloor. Studying water movement there connects geology to ocean chemistry and deep-sea habitat.\n\nThe useful outside question is: what could a small visible outlet reveal about a much larger hidden system? A vent can be a window into circulation, but one window does not map every passage beneath it. More observations are needed before generalising across the Atlantic.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.95,
+          "z": null
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "chimneys",
+        "label": "Atom: why does the water look like smoke?",
+        "text": "Predict first: is a black smoker producing smoke from burning fuel?\n\nThe dark plume contains mineral particles. Hot, mineral-rich fluid meets cold seawater; chemical changes cause minerals to precipitate. Deposits can build chimney structures. The apparent smoke is not evidence of an underwater fire.\n\nIn a typical volcanic vent system, seawater enters cracks, heats through interaction with hot crust, changes chemically and returns to the ocean. High deep-ocean pressure allows very hot water to remain liquid. The vent outlet is not the temperature of the entire surrounding habitat.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": -0.65,
+          "z": null
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "microbes",
+        "label": "Atom: the food begins with chemistry",
+        "text": "Photosynthesis and chemosynthesis are different routes to making organic matter. At many vents, microbes use energy from chemical reactions to build that matter, which can support other organisms through feeding or symbiosis.\n\nThink of the microbes as the beginning of a food pathway, not as tiny solar panels. Heat alone is not food, and the animals are not simply eating rocks. Ask which substances supply energy, which organisms use them, and how that material reaches the animals. Different communities can have different answers.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": -0.85,
+          "z": null
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "hybrid",
+        "label": "Inside the rock: the hybrid hypothesis",
+        "text": "The expedition's initial interpretation combines volcanic venting with serpentinization: reactions between seawater and mantle-derived rocks. The combination makes a useful research question: how much does each process contribute at each field?\n\nAn authored next-step question is to compare fluid chemistry and mineral evidence between sites, then test whether the proposed explanation fits both. This is a suggested line of investigation, not a claim that a particular follow-up expedition has been scheduled. The announcement establishes the discovery more firmly than it establishes a complete subsurface model.",
+        "kind": "question",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": -0.5,
+          "z": 0.15
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "past",
+        "label": "Time view: the 1977 turning point",
+        "text": "In 1977, researchers investigating the Galápagos Rift encountered warm water emerging from the seafloor and unexpected animal communities. Hydrothermal ecosystems helped transform the scientific picture of where rich communities could obtain their energy.\n\nTravel backward without assuming the result was obvious. Measuring heat, seeing animals and explaining their food supply were related but distinct steps. The historical lesson is a method: when the observation does not fit the expectation, follow the mismatch. The Doldrums discovery extends that continuing work; it was not the first discovery of hydrothermal vents.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.25,
+          "z": -0.8
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "ocean-worlds",
+        "label": "Planetary: from Atlantic rocks to an icy moon",
+        "text": "Cassini detected hydrogen in the plume of Saturn's moon Enceladus. NASA describes water–rock interactions in its hidden ocean as a possible source of that hydrogen and evidence for hydrothermal activity.\n\nThe connection is an energy question: could water and rock provide chemical conditions that microbes might use? Earth gives us places to study the processes. It does not give us proof of organisms elsewhere. Enceladus is a comparison, not a prediction that an Atlantic animal has a counterpart under its ice.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.9,
+          "z": 0.3
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "future",
+        "label": "Time view: what would change our minds?",
+        "text": "Consider three research paths, without assigning invented probabilities.\n\nFirst, chemical and mineral analyses could strengthen—or revise—the proposed hybrid explanation. Second, further surveying could reveal more circulation along transform systems, or show strong limits on where it occurs. Third, repeated biological observations could clarify how these communities vary over time.\n\nThese are conditional possibilities, not announced results. Ask what observation would distinguish one explanation from another. A future worth exploring contains tests, not just attractive pictures.",
+        "kind": "forecast",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.2,
+          "z": 0.9
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "tip",
+        "label": "Weekly ORB Tip: make the question precise",
+        "text": "Make your orb searches precise to achieve the best results.\n\nBroad: “Underwater vents.”\n\nPrecise: “What did the May–June 2026 Doldrums expedition discover about Atlantic hydrothermal vents, and what evidence supports the proposed hybrid chemistry?”\n\nName your subject, your question and your timeframe. Then check the sources. Specific wording helps focus the answer; it does not guarantee accuracy. You can use this prompt at https://www.orbforma.com/ and follow the evidence into your own exploration.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": -0.1,
+          "z": null
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "continue",
+        "label": "Choose your next question",
+        "text": "Around: “How are ocean chemistry and vent life connected? Explain chemical fuel, oxygen and exchanges with the wider ocean, distinguishing general mechanisms from the 2026 Doldrums observations.”\n\nInside: “What evidence would test the proposed hybrid plumbing at the Doldrums vent fields? Compare fluid chemistry, rock samples and volcanic versus water–rock contributions.”\n\nThrough time: “How did deep-sea exploration tools change what scientists could discover, from the 1977 Galápagos vents to the Doldrums expedition? Follow the 2013 clue, mapping, autonomous surveys and ROV sampling.”\n\nFor an imaginative companion, open CNSDR's Life Without Sunlight / The Garden Beneath the Sun from the links below. Its guided journey and generated ocean artwork are creative interpretations, not expedition footage or scientific evidence. Return to this ORB to inspect the sources.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "",
+          "role": "none",
+          "avoid": ""
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.5,
+          "z": null
+        },
+        "placementReason": "Authored explanatory depth and historical/future context; no measured probability.",
+        "parent": 0,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "question",
+        "to": "discovery",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "search",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "planetary",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "chimneys",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "microbes",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "hybrid",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "past",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "ocean-worlds",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "future",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "tip",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "question",
+        "to": "continue",
+        "relation": "contains",
+        "reason": "A distinct route through the central energy-and-life question.",
+        "basis": "interpretation"
+      }
+    ],
+    "speakers": [],
+    "seam": {
+      "title": "A changed view of the dark",
+      "text": "Darkness removes sunlight, not every source of usable energy. Understanding that distinction opens a better question: which reactions support life here, and what evidence could tell us where else they occur?",
+      "readings": [
+        4,
+        5,
+        6,
+        9
+      ]
+    },
+    "theme": {
+      "accent": "iris",
+      "atmosphere": "Deep ocean wonder with clear evidence"
+    },
+    "courseOrder": [],
+    "neighbors": [
+      {
+        "id": "ocean-worlds",
+        "title": "Ocean worlds",
+        "domain": "Planetary science",
+        "summary": "Compare water–rock interactions beyond Earth.",
+        "relation": "comparison",
+        "bridge": "Chemical energy can be investigated without claiming extraterrestrial life."
+      },
+      {
+        "id": "robotic-exploration",
+        "title": "Robotic exploration",
+        "domain": "Engineering",
+        "summary": "How a search becomes a sample.",
+        "relation": "method",
+        "bridge": "Mapping, detection and visual confirmation answer different questions."
+      },
+      {
+        "id": "symbiosis",
+        "title": "Symbiosis",
+        "domain": "Biology",
+        "summary": "Explore partnerships that connect microbes and animals.",
+        "relation": "mechanism",
+        "bridge": "Microbial metabolism can sustain larger organisms through ecological relationships."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Doldrums discovery announcement — July 7, 2026",
+        "url": "https://schmidtocean.org/the-doldrums-fracture-zone-is-anything-but-dull/",
+        "publisher": "Schmidt Ocean Institute",
+        "readings": [
+          1,
+          2,
+          6,
+          9
+        ]
+      },
+      {
+        "title": "Doldrums expedition — May 17–June 20, 2026",
+        "url": "https://www.mbari.org/expedition/the-doldrums-fracture-zone/",
+        "publisher": "MBARI",
+        "readings": [
+          2,
+          3,
+          10
+        ]
+      },
+      {
+        "title": "Hydrothermal vents factsheet",
+        "url": "https://oceanexplorer.noaa.gov/fact-sheet/hydrothermal-vents-fact-sheet/",
+        "publisher": "NOAA Ocean Exploration",
+        "readings": [
+          4
+        ]
+      },
+      {
+        "title": "Photosynthesis and chemosynthesis",
+        "url": "https://oceanexplorer.noaa.gov/ocean-fact/photochemo/",
+        "publisher": "NOAA Ocean Exploration",
+        "readings": [
+          0,
+          5
+        ]
+      },
+      {
+        "title": "The discovery of hydrothermal vents",
+        "url": "https://www.whoi.edu/oceanus/feature/the-discovery-of-hydrothermal-vents/",
+        "publisher": "Woods Hole Oceanographic Institution",
+        "readings": [
+          7
+        ]
+      },
+      {
+        "title": "Enceladus hydrothermal activity",
+        "url": "https://science.nasa.gov/resource/enceladus-hydrothermal-activity/",
+        "publisher": "NASA",
+        "readings": [
+          8
+        ]
+      }
+    ]
+  },
+  "museum": {
+    "attribution": "named",
+    "creator": {
+      "displayName": "Orbforma"
+    },
+    "contribution": {
+      "note": "Explore the science, then visit the separate CNSDR imagined journey. No new narration is supplied in this reader.",
+      "expression": "Follow a discovery outward, inward, through history and into testable possibilities."
+    },
+    "library": [
+      {
+        "title": "CNSDR — Life Without Sunlight / The Garden Beneath the Sun (creative guided journey)",
+        "url": "https://www.youtube.com/watch?v=EIBo4LEFxd0",
+        "type": "video"
+      },
+      {
+        "title": "Create and explore your own ORB",
+        "url": "https://www.orbforma.com/",
+        "type": "website"
+      }
+    ]
+  },
+  "reaches": []
+}
